@@ -30,11 +30,14 @@ To push edit code, commit to git and push to Heroku
 - In the command line type "git commit -m "TBD""
 - In the command line type "git push heroku master"
 
-To sync code from local repository to GitHub remote repository:
+To commit and pshh updates from local repository to GitHub remote repository
 - In the command line type "git add ."
 - In the command line type "git status"
 - In the command line type "git commit -m "TBD""
 - In the command line type "git status"
 - In the command line type "git push origin master"
+
+To pull from GitHub remote repository to the local repository
+- In the command line type "git pull"
 
 Tp delete contact from Mailchimp see the following link: https://mailchimp.com/help/delete-contacts/
