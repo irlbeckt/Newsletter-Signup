@@ -40,4 +40,4 @@ To commit and pshh updates from local repository to GitHub remote repository
 To pull from GitHub remote repository to the local repository
 - In the command line type "git pull"
 
-Tp delete contact from Mailchimp see the following link: https://mailchimp.com/help/delete-contacts/
+To delete contact(s) from Mailchimp see the following link: https://mailchimp.com/help/delete-contacts/
