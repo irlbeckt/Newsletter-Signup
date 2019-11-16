@@ -23,12 +23,14 @@ To run code locally
 To debug code
 - In the command line type "heroku logs"
 
-To push edit code, commit to git and push to Heroku
-- Make edits to code locallay and save
+To push edit code, commit to git and push to Heroku from the command line
+- Make edits to code locally and save
 - In the command line type "heroku login"
 - In the command line type "git add ."
 - In the command line type "git commit -m "TBD""
 - In the command line type "git push heroku master"
+
+To integrate Heroku with GitHub see https://devcenter.heroku.com/articles/github-integration
 
 To commit and push updates from local repository to GitHub remote repository
 - In the command line type "git add ."
