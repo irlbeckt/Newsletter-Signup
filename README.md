@@ -9,7 +9,7 @@ https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture
 
 Running on Heroku at https://serene-reef-40960.herokuapp.com/
 
-References:
+Applications Used:
 - Bootstrap: https://getbootstrap.com/
 - Express: https://expressjs.com/
 - GitHub: https://github.com/
